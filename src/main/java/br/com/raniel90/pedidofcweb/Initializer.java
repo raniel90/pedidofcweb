@@ -1,4 +1,4 @@
-package br.com.ferreiracosta.pedidofcweb;
+package br.com.raniel90.pedidofcweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

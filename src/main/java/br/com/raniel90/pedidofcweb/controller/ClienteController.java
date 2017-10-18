@@ -1,7 +1,7 @@
-package br.com.ferreiracosta.pedidofcweb.controller;
+package br.com.raniel90.pedidofcweb.controller;
 
-import br.com.ferreiracosta.pedidofcweb.domain.Cliente;
-import br.com.ferreiracosta.pedidofcweb.service.ClienteService;
+import br.com.raniel90.pedidofcweb.domain.Cliente;
+import br.com.raniel90.pedidofcweb.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

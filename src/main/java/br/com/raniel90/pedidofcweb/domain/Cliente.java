@@ -1,4 +1,4 @@
-package br.com.ferreiracosta.pedidofcweb.domain;
+package br.com.raniel90.pedidofcweb.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

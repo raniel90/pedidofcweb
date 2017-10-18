@@ -1,6 +1,6 @@
-package br.com.ferreiracosta.pedidofcweb.repository;
+package br.com.raniel90.pedidofcweb.repository;
 
-import br.com.ferreiracosta.pedidofcweb.domain.Cliente;
+import br.com.raniel90.pedidofcweb.domain.Cliente;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

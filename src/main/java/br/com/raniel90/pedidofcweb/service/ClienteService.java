@@ -1,7 +1,7 @@
-package br.com.ferreiracosta.pedidofcweb.service;
+package br.com.raniel90.pedidofcweb.service;
 
-import br.com.ferreiracosta.pedidofcweb.domain.Cliente;
-import br.com.ferreiracosta.pedidofcweb.repository.ClienteRepository;
+import br.com.raniel90.pedidofcweb.domain.Cliente;
+import br.com.raniel90.pedidofcweb.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

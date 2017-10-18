@@ -1,4 +1,4 @@
-package br.com.ferreiracosta.pedidofcweb.pedidofcweb;
+package br.com.raniel90.pedidofcweb.pedidofcweb;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

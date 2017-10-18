@@ -1,4 +1,4 @@
-package br.com.ferreiracosta.pedidofcweb.security;
+package br.com.raniel90.pedidofcweb.security;
 
 import org.keycloak.adapters.KeycloakConfigResolver;
 import org.keycloak.adapters.KeycloakDeployment;
