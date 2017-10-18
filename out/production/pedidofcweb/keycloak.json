@@ -1,0 +1,7 @@
+{
+  "realm": "PedidoFC",
+  "auth-server-url": "http://localhost:8081/auth",
+  "ssl-required": "external",
+  "resource": "pedidofc-frontend",
+  "public-client": true
+}
